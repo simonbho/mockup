@@ -9,3 +9,5 @@ User can save trips as favorites/frequent travel
 User can hail a cab or connect to Uber/Lyft/etc
 User can send a message (text/email) once a match is made (perhaps direct link into Kellogg directory)
 
+Domain Model
+https://docs.google.com/spreadsheet/ccc?key=0AkYfr2WOkLCJdGltYVQzRXFzTk1acnJKZTNlS05nX1E&usp=sharing
